@@ -1,0 +1,21 @@
+\documentclass[11pt,a4paper,oneside]{report}
+
+\usepackage{pslatex,palatino,avant,graphicx,color}
+\usepackage[margin=2cm]{geometry}
+
+\begin{document}
+\title{\color{black}The Daily Log}
+\author{\color{blue}Michael Soskind\\ Spring Semester}
+\date{\color{blue}2015}
+\maketitle
+
+Date: 01/20/2015 \\
+
+\begin{center}
+    \begin{tabular}{ | l | l | p{5cm} | l |}
+    \hline
+    Class Number & Date Due & Daily Assignment & Completed? \\ \hline
+    \end{tabular}
+\end{center}
+
+\end{document}
