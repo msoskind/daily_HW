@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper,oneside]{report}
+\documentclass[11pt,letter,oneside]{report}
 
 \usepackage{pslatex,palatino,avant,graphicx,color}
 \usepackage[margin=2cm]{geometry}
