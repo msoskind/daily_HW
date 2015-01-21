@@ -15,10 +15,11 @@ Date: 01/20/2015 \\
     \begin{tabular}{ | l | l | p{5cm} | l |}
     \hline
     Class Number & Daily Assignment & Completed? \\ \hline
-    220:102 & Read the Powerpoint &  \\ \hline
-    332:366 & Read through class notes\\ read some more &  \\ \hline
-    640:250 & Skim textbook and read notes &  \\ \hline
+    220:102 & Read the Powerpoint & Y \\ \hline
+    332:366 & Read through class notes\\ read some more & Y \\ \hline
+    640:250 & Skim textbook and read notes & Y \\ \hline
     \end{tabular}
+Time Completed: 12:00 am, time for sleep :)
 \end{center}
 
 \end{document}
