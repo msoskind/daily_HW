@@ -42,13 +42,13 @@ Date: 01/22/2015 \\
     \begin{tabular}{ | l | p{5cm} | l |}
     \hline
     Class Number & Daily Assignment & Completed? \\ \hline
-    332:226 & Read and Finish Powerpoint &  \\ \hline
+    332:226 & Read and Finish Powerpoint & N \\ \hline
     332:382 & Read through part of Griffith & Y \\ \hline
-    640:250 & Skim textbook &  \\ \hline
-    332:366 & Review MOSFETs &  \\ \hline
+    640:250 & Skim textbook & N \\ \hline
+    332:366 & Review MOSFETs & P \\ \hline
     \end{tabular}
 \end{center}
 
-Time Completed:  \\
+Time Completed: 11:15 \\
 
 \end{document}
