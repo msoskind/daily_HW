@@ -59,13 +59,13 @@ Date: 01/29/2015 \\
     \begin{tabular}{ | l | p{5cm} | l |}
     \hline
     Class Number & Daily Assignment & Completed? \\ \hline
-    332:226 & Read Textbook/Powerpoint &  \\ \hline
-    332:252 & Read Textbook/Powerpoint &  \\ \hline
-    640:250 & Look through the HW Problems &  \\ \hline
-    332:366 & Work on the Digital Electronics HW &  \\ \hline
+    332:226 & Read Textbook/Powerpoint & Y \\ \hline
+    332:252 & Read Textbook/Powerpoint & Y \\ \hline
+    640:250 & Look through the HW Problems & N \\ \hline
+    332:366 & Work on the Digital Electronics HW & N \\ \hline
     \end{tabular}
 \end{center}
 
-Time Completed: 11:15 \\
+Time Completed: 9:50 \\
 
 \end{document}
