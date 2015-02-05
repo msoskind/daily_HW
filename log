@@ -68,4 +68,19 @@ Date: 01/29/2015 \\
 
 Time Completed: 9:50 \\
 
+Date: 02/05/2015 \\
+
+\begin{center}
+    \begin{tabular}{ | l | p{5cm} | l |}
+    \hline
+    Class Number & Daily Assignment & Completed? \\ \hline
+    332:226 & Read Textbook/Powerpoint &  \\ \hline
+    332:252 & Read Textbook/Powerpoint &  \\ \hline
+    640:250 & Look through the HW Problems &  \\ \hline
+    332:366 & Study for Digital Electronics Quiz &  \\ \hline
+    \end{tabular}
+\end{center}
+
+Time Completed:  \\
+
 \end{document}
