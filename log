@@ -83,4 +83,18 @@ Date: 02/05/2015 \\
 
 Time Completed:  \\
 
+Date: 04/09/2015 \\
+
+Note: I have not been doing a good job at all with keeping up with the log. I have since become fairly disorganized (once again with doing my work). \\
+
+\begin{center}
+    \begin{tabular}{ | l | p{5cm} | l |}
+    \hline
+    Class Number & Daily Assignment & Completed? \\ \hline
+    332:366 & Study for Exam Tomorrow &  \\ \hline
+    \end{tabular}
+\end{center}
+
+Time Completed:  12:30pm\\
+
 \end{document}
